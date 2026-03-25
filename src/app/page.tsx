@@ -103,7 +103,7 @@ export default function HomePage() {
             <span className="hero-badge-dot" />
             Mentoring Programm 2026
           </div>
-          <h1>Baue dein eigenes<br /><em>Beauty Business</em> auf</h1>
+          <h1>Dein eigener<br /><em>Beauty Salon</em></h1>
           <p className="hero-sub">Heidi Yeboah begleitet dich Schritt für Schritt auf dem Weg zu deinem erfolgreichen Beauty Salon — mit der Erfahrung von Yeboah Cosmetics.</p>
           <div className="hero-cta-wrap">
             <a href="#kontakt" className="btn-primary">

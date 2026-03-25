@@ -107,7 +107,7 @@ export default function HomePage() {
           <p className="hero-sub">Heidi Yeboah begleitet dich Schritt für Schritt auf dem Weg zu deinem erfolgreichen Beauty Salon — mit der Erfahrung von Yeboah Cosmetics.</p>
           <div className="hero-cta-wrap">
             <a href="#kontakt" className="btn-primary">
-              Kostenloses Erstgespräch sichern
+              Jetzt Platz sichern!
               <ArrowRight size={18} />
             </a>
             <span className="hero-note">Unverbindlich &amp; kostenlos</span>

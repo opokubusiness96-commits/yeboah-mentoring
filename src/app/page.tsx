@@ -127,8 +127,8 @@ export default function HomePage() {
                 <Image src="/heidi.jpg" alt="Heidi Yeboah — Gründerin von Yeboah Cosmetics" width={600} height={750} className="about-photo" />
               </div>
               <div className="about-accent-card">
-                <div className="number">5+</div>
-                <div className="label">Jahre Beauty-Branche<br />in Berlin</div>
+                <div className="number">8+</div>
+                <div className="label">Jahre Erfahrung</div>
               </div>
             </div>
             <div className="about-content">

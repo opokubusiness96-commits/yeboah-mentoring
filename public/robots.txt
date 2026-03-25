@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://mentoring.yeboahcosmetics.de
+
+# Sitemaps
+Sitemap: https://mentoring.yeboahcosmetics.de/sitemap.xml
